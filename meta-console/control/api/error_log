@@ -1,0 +1,14 @@
+[07-Dec-2022 09:24:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insert() in /home/sosalin/public_html/meta-console/control/api/placeOrder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sosalin/public_html/meta-console/control/api/placeOrder.php on line 15
+[07-Dec-2022 09:24:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insert() in /home/sosalin/public_html/meta-console/control/api/placeOrder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sosalin/public_html/meta-console/control/api/placeOrder.php on line 15
+[07-Dec-2022 09:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insert() in /home/sosalin/public_html/meta-console/control/api/placeOrder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sosalin/public_html/meta-console/control/api/placeOrder.php on line 15
+[08-Dec-2022 03:32:28 UTC] PHP Notice:  Undefined variable: last_id in /home/sosalin/public_html/meta-console/db/query.php on line 331
+[08-Dec-2022 03:32:28 UTC] PHP Notice:  Undefined offset: 0 in /home/sosalin/public_html/meta-console/control/api/confirmOrder.php on line 44
